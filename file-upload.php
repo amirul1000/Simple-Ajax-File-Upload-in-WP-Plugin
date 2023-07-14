@@ -4,7 +4,7 @@
 	Plugin URI: 
 	Description: File Upload is an intelligent file_upload
 	Version: 1.1
-	Author: 
+	Author: Amirul Momenin patainc@gmail.com
 	Author URI: 
 	License: GPL
 	*/
